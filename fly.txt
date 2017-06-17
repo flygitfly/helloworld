@@ -1,3 +1,4 @@
 test file
 new merge line 2
 user1
+more
