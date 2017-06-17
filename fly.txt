@@ -1,4 +1,10 @@
 test file
 
 user1
+<<<<<<< HEAD
 more
+=======
+more
+»¢
+»¢
+>>>>>>> morebranch
